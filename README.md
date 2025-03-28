@@ -12,7 +12,7 @@ manim -h
 ## Running the Script
 
 ```bash
-git clone https://github.com/yourusername/heart-animation.git
+git clone https://github.com/HichamIDDIR/Heart-Shape-using-Manim
 cd heart-animation
 manim -pql heart.py SmoothHeart
 ```
