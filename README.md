@@ -13,7 +13,7 @@ manim -h
 
 ```bash
 git clone https://github.com/HichamIDDIR/Heart-Shape-using-Manim
-cd heart-animation
+cd Heart-Shape-using-Manim
 manim -pql heart.py SmoothHeart
 ```
 
